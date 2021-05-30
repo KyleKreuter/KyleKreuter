@@ -8,6 +8,7 @@ I'm a student at a high school in Bavaria, Germany
   - Kotlin
 - I'm planning on learning
   - TypeScript
+  - JavaScript
  
   
  ### ✉️ Contact
