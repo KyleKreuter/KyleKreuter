@@ -16,5 +16,3 @@ I'm a student at a high school in Bavaria, Germany
    - kyleonaut@gmail.com
  - Discord
    - Kyleonaut#6615
-
-https://github-readme-stats.vercel.app/api?username=KyleDerEchte&count_private=true&show_icons=true&theme=dark
