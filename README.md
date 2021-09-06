@@ -9,8 +9,7 @@ I'm a 16 y/o student at a high school in Bavaria, Germany
 - I'm planning on learning
   - TypeScript
   - JavaScript
-  - KryoNetty
- 
+  
   
  ### ✉️ Contact
  - Email
