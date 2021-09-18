@@ -7,8 +7,7 @@ I'm a 16 y/o student at a high school in Bavaria, Germany
   - Python
   - Kotlin
 - I'm planning on learning
-  - TypeScript
-  - JavaScript
+  - Web Development
   
   
  ### ✉️ Contact
