@@ -5,7 +5,6 @@ I'm a 16 y/o student at a high school in Bavaria, Germany
 - I'm fairly experienced with
   - Java
   - Python
-  - Kotlin
 - I'm planning on learning
   - Web Development
   
