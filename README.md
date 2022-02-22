@@ -1,5 +1,5 @@
 # Hi, I'm Kyleonaut👋
-I'm a 16 y/o student at a high school in Bavaria, Germany  
+I'm a 17 y/o student at a high school in Bavaria, Germany  
 
 ### Coding
 - I'm fairly experienced with
