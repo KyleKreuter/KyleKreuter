@@ -1,4 +1,4 @@
-# Hi, I'm Kyleonaut👋
+# Hi, I'm Kyle👋
 I'm a 17 y/o student at a high school in Bavaria, Germany  
 
 ### Coding
