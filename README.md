@@ -1,16 +1,14 @@
 # Hi, I'm Kyle👋
-I'm a 18 y/o student at a high school in Bavaria, Germany  
+I'm a 18 y/o student, living in Hamburg
 
 ### Coding
 - I'm fairly experienced with
   - Java
   - Python
-- I'm planning on learning
-  - Web Development
-  
   
  ### ✉️ Contact
  - Email
    - kyleonaut@gmail.com
  - Discord
-   - Kyleonaut#6615
+   - (kyleonaut#0001)
+   - kyleonaut
