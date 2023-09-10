@@ -1,5 +1,5 @@
 # Hi, I'm Kyle👋
-I'm a 18 y/o student, living in Hamburg
+I'm a 18 y/o cs student, living in Hamburg
 
 ### Coding
 - I'm fairly experienced with
