@@ -1,6 +1,6 @@
 
 # Hi, I'm Kyle👋
-I'm a 18 y/o cs student, living in Hamburg
+I'm a 19 y/o cs student, living in Hamburg
 
 
 
@@ -10,12 +10,10 @@ I'm a 18 y/o cs student, living in Hamburg
   - Python
  
  ### Experience
-  - Former developer on various Minecraft networks, including Landania, GrieferGames and Hyperknox.
+  - Former developer on various Minecraft networks, including Landania and GrieferGames.
 
- - I also have a bit of experience with client development, having been a developer on the Minecraft modification 		      Mysterymod.
+ - I also have a bit of experience with client development, having been a developer on the Minecraft modification Mysterymod.
  ### ✉️ Contact
- - Email
-   - kyleonaut@gmail.com
  - Discord
    - (kyleonaut#0001)
    - kyleonaut
