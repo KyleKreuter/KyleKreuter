@@ -12,9 +12,9 @@
 ```console
 $ whoami
 ```
-**Fullstack Software Engineer** @ [BRB Business IT-Solutions GmbH](https://brb-it.de) — Hamburg, Germany
+**Fullstack Software Engineer** @ [BRB Business IT-Solutions GmbH](https://it-brb.de) — Hamburg, Germany
 
-Building AI-powered applications and low-level systems in Java.
+Building AI-powered applications and developer tools in Java.
 
 ---
 
@@ -35,9 +35,19 @@ infrastructure:
 
 interests:
   - AI Engineering & LLM Integration
-  - Concurrent & Low-Level Systems
+  - Developer Tooling & DX
   - Terminal UI Frameworks
 ```
+
+![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=flat&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-000?style=flat&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=white)
 
 ---
 
