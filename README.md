@@ -60,4 +60,4 @@ interests:
 
 ---
 
-<sub>`$ uptime` — writing code since 2020</sub>
+`$ uptime` — writing code since 2020
